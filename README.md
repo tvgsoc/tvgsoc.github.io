@@ -8,3 +8,9 @@ Van Gunten, T.S. (2024) ['Elite Politics and Economic Crisis: Hyperinflation in 
 
 Van Gunten, T. (2023) ['Mapping Economists’ Belief Spaces Using Survey Data'](https://doi.org/10.4000/oeconomia.15158), OEconomia / History, Methodology, Philosophy, (13–2), pp. 517–557. [Replication materials](https://osf.io/hse9p/).
 
+Kozlowski, A.C. and Van Gunten, T.S. (2023) ['Are Economists Overconfident? Ideology and Uncertainty in Expert Opinion'](https://onlinelibrary.wiley.com/doi/10.1111/1468-4446.13001), British Journal of Sociology, 7(3), pp. 476–500.
+
+Van Gunten, T. (2022) ['Analyzing Online Social Networks'](https://methods.sagepub.com/how-to-guide/analyzing-online-social-networks), in K. Gregory (ed.) SAGE Research Methods Online. London: SAGE Publications, Ltd.
+
+
+

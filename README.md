@@ -1,4 +1,6 @@
-# Hello world
+# Tod Van Gunten
+
+## Senior Lecturer in Sociology, University of Edinburgh
 
 I am a comparative economic and political sociologist with methodological interests social network analysis.
 
@@ -11,6 +13,26 @@ Van Gunten, T. (2023) ['Mapping Economists’ Belief Spaces Using Survey Data'](
 Kozlowski, A.C. and Van Gunten, T.S. (2023) ['Are Economists Overconfident? Ideology and Uncertainty in Expert Opinion'](https://onlinelibrary.wiley.com/doi/10.1111/1468-4446.13001), British Journal of Sociology, 7(3), pp. 476–500.
 
 Van Gunten, T. (2022) ['Analyzing Online Social Networks'](https://methods.sagepub.com/how-to-guide/analyzing-online-social-networks), in K. Gregory (ed.) SAGE Research Methods Online. London: SAGE Publications, Ltd.
+
+Van Gunten, T. (2021) ['Visualizing the Network Structure of COVID-19 in Singapore'](https://doi.org/10.1177/23780231211000171), Socius: Sociological Research for a Dynamic World, 7, pp. 1–3
+
+Van Gunten, T. and Kohl, S. (2020) ['The inversion of the ‘really big trade-off’: homeownership and pensions in long-run perspective'](https://doi.org/10.1080/01402382.2019.1609285), West European Politics, 43(2), pp. 435–463.
+
+Van Gunten, T. and Navot, E. (2018) ['Varieties of indebtedness: Financialization and mortgage market institutions in Europe'](https://doi.org/10.1016/j.ssresearch.2017.11.005), Social Science Research, 70, pp. 90–106.
+
+Van Gunten, T.S. (2017) ['Washington dissensus: ambiguity and conflict at the International Monetary Fund'](https://doi.org/10.1093/ser/mwv032), Socio-Economic Review, 15(1), pp. 65–84.
+
+Van Gunten, T., Martin, J. and Teplitskiy, M. (2016) ['Consensus, polarization, and alignment in the economics profession'](https://doi.org/10.15195/v3.a45), Sociological Science, 3, pp. 1028–1052.
+
+Van Gunten, T.S. (2015) ['Cohesion, consensus, and conflict: Technocratic elites and financial crisis in Mexico and Argentina'](https://doi.org/10.1177/0020715215626238), International Journal of Comparative Sociology, 56(5), pp. 366–390.
+
+Van Gunten, T.S. (2015) ['Cycles of polarization and settlement: diffusion and transformation in the macroeconomic policy field'](https://doi.org/10.1007/s11186-015-9253-8), Theory and Society, 44(4), pp. 321–354.
+
+Levi Martin, J., van Gunten, T. and Zablocki, B.D. (2012) ['Charisma, status, and gender in Groups with and without gurus'](https://doi.org/10.1111/j.1468-5906.2011.01633.x), Journal for the Scientific Study of Religion, 51(1), pp. 20–41.
+
+
+
+
 
 
 

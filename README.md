@@ -1,6 +1,4 @@
----
-Title: Tod Van Gunten
----
+# Tod Van Gunten
 
 ## Senior Lecturer in Sociology, University of Edinburgh
 

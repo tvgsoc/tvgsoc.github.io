@@ -1,4 +1,6 @@
-test
+---
+title: TITLE IN README
+---
 
 # Senior Lecturer in Sociology, University of Edinburgh
 

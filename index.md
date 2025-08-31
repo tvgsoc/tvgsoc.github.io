@@ -34,4 +34,8 @@ Levi Martin, J., van Gunten, T. and Zablocki, B.D. (2012) ['Charisma, status, an
 
 # Work in progress and recent presentations
 
-[Genre Complexes and Cultural Globalization: A Network Approach](doc/spotify_sunbelt.pdf). Presentation at the 2025 INSNA Sunbelt Conference, Paris, June 2025. See also [earlier presentation](doc/spotify_cudan.pdf) of this work at the 2023 Cultural Data Analytics Conference in Tallinn, Estonia, December 2023.
+Van Gunten, T.S and Atalay, A. (2025) [Genre Complexes and Cultural Globalization: A Network Approach](doc/spotify_sunbelt.pdf). Presentation at the 2025 INSNA Sunbelt Conference, Paris, June 2025. See also [earlier presentation](doc/spotify_cudan.pdf) of this work at the 2023 [Cultural Data Analytics](https://cudan.tlu.ee/conference/) Conference in Tallinn, Estonia, December 2023.
+
+Van Gunten, T.S. (2024). [Elite Polarization in Argentina: A Legislative Co-sponsorship approach.](doc/cosponsorship_sunbelt.pdf). Presentation at the 2024 INSNA Sunbelt Conference, Edinburgh, June 2024.
+
+

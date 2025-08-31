@@ -31,3 +31,11 @@ Van Gunten, T.S. (2015) ['Cohesion, consensus, and conflict: Technocratic elites
 Van Gunten, T.S. (2015) ['Cycles of polarization and settlement: diffusion and transformation in the macroeconomic policy field'](https://doi.org/10.1007/s11186-015-9253-8), Theory and Society, 44(4), pp. 321–354.
 
 Levi Martin, J., van Gunten, T. and Zablocki, B.D. (2012) ['Charisma, status, and gender in Groups with and without gurus'](https://doi.org/10.1111/j.1468-5906.2011.01633.x), Journal for the Scientific Study of Religion, 51(1), pp. 20–41.
+
+# Work in progress and recent presentations
+
+Van Gunten, T.S and Atalay, A. (2025) [Genre Complexes and Cultural Globalization: A Network Approach](doc/spotify_sunbelt.pdf). Presentation at the 2025 INSNA Sunbelt Conference, Paris, June 2025. See also [earlier presentation](doc/spotify_cudan.pdf) of this work at the 2023 [Cultural Data Analytics](https://cudan.tlu.ee/conference/) Conference in Tallinn, Estonia, December 2023.
+
+Van Gunten, T.S. (2024). [Elite Polarization in Argentina: A Legislative Co-sponsorship approach.](doc/cosponsorship_sunbelt.pdf). Presentation at the 2024 INSNA Sunbelt Conference, Edinburgh, June 2024.
+
+

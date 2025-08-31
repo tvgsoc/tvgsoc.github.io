@@ -9,9 +9,17 @@
 \renewcommand{\labelitemi}{$$}
 \newcommand{\sectionhead}[1]{\begin{flushleft}\large\bf{#1}\vspace{.1cm}\hrule\end{flushleft}}
 
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+% Clear all header and footer fields
+\fancyhf{}
+
+% Add the date to the right side of the footer
+\fancyfoot[R]{Last updated \today}
+
 \begin{document}
 \begin{center}
-\textbf{Tod Stewart Van Gunten}\vspace{0.3cm}
+\textbf{Dr. Tod Stewart Van Gunten}\vspace{0.3cm}
 \end{center}
 
 \noindent

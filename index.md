@@ -4,7 +4,7 @@ title: Senior Lecturer in Sociology, University of Edinburgh
 
 I am a comparative economic and political sociologist with methodological interests in social network analysis and computational social science.
 
-[Curriculum vitae](cv/cv.pdf)
+[Curriculum vitae](cv/cv.pdf) [Open access](https://www.research.ed.ac.uk/en/persons/tod-van-gunten/publications/)
 
 # Publications
 

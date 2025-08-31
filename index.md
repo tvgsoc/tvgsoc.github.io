@@ -4,6 +4,8 @@ title: Senior Lecturer in Sociology, University of Edinburgh
 
 I am a comparative economic and political sociologist with methodological interests in social network analysis and computational social science.
 
+[Curriculum vitae](cv/cv.pdf)
+
 # Publications
 
 Van Gunten, T.S. (2024) ['Elite Politics and Economic Crisis: Hyperinflation in Argentina, 1989–1990'](https://doi.org/10.1108/S0198-871920240000041006), in R.J. Emigh and D. Riley (eds) Political Power and Social Theory. Emerald Publishing Limited, pp. 141–173. [Open access](https://www.research.ed.ac.uk/en/publications/elite-politics-and-economic-crisis-hyperinflation-in-argentina-19)
